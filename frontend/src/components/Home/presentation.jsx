@@ -2,9 +2,9 @@ const Presentation = () => {
     return (
         <div className="container">
             <div className="text-center">
-            <img src="../../../public/boite_a_idee.png" alt="ampoule" />
-            <img src="../../../public/images.jpg"  alt="boites à idée" />
-            <img src="../../../public/boite_a_idee.png" alt="ampoule" />
+            <img src="../../../boite_a_idee.png" alt="ampoule" />
+            <img src="../../../images.jpg"  alt="boites à idée" />
+            <img src="../../../boite_a_idee.png" alt="ampoule" />
             </div>
             <ul className="m-5">
                 <li>Offrons à chacun la possibilité de proposer des solutions concrètes pour un monde plus accessible.</li>
