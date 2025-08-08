@@ -2,6 +2,7 @@ import UserModel from './model.js'
 import argon2 from "argon2"
 import jwt from 'jsonwebtoken'
 import crypto from 'crypto'
+import sendEmail from '../../utils/sendEmail.js'
 
 class UserController{
 
